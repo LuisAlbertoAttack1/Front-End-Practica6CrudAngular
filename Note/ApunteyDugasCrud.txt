@@ -1,0 +1,23 @@
+- > Crear componente de forma automatica {
+
+    - > ng generate component carpeta/nombreComponente
+        - > ng g c carpeta/nombreComponente
+
+}
+- > Apuntes Sobre Las Diapositivas {
+- > informacion.component.ts {
+
+    Aqui Puedes Colocar La Funcionalidad
+    public personas : string = 'Lo Que Puedes Meter En Tu Input';
+
+}
+
+- > informacion.component.html {
+
+                <p>Prueba!</p>
+            Esto Es Un Input que puedes traer informacion de tu TS
+            <input type="text" [(ngModel)]="personas">
+
+}
+
+}

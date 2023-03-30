@@ -1,0 +1,15 @@
+.textTitulo{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.colorBarra{
+background-color: #dee2e6 ;
+
+}
+.tamañoDeIconos{
+    height: 2em;
+    width: 2em;
+}
+.tamañoDeBotones{
+    height: 4em;
+    width: 4em;
+}
